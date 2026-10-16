@@ -180,7 +180,7 @@ No output indicates that Bash did not report a syntax error.
 
 ## Run-Through Video
 
-**Video link:** Replace this line with your shareable video URL.
+**Video link:** (https://drive.google.com/file/d/1vphsulCGU-p1FEjh_98HuQjhpVBaEwzs/view?usp=drive_link)
 
 The demonstration should cover:
 
